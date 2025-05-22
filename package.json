@@ -5,11 +5,18 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./src/index.js"
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js",
+    "prod": "SET NODE_ENV=production && nodemon ./src/index.js"
   },
   "author": "Rishu_Dutta",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.10"
+    "nodemon": "^3.1.10",
+    "prettier": "^3.5.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
   }
 }
