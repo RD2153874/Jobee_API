@@ -19,4 +19,4 @@ This is the a Node application for Job application Management
 
 ## Installation
 
-1. Clone the repository: REPO_NAME
+1. Clone the repository: [Jobee_API](https://github.com/RD2153874/Jobee_API.git)
