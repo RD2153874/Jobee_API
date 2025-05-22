@@ -1,0 +1,11 @@
+{
+  "name": "jobee_api",
+  "version": "1.0.0",
+  "description": "This API for Jobs and user interaction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rishu_Dutta",
+  "license": "ISC"
+}
